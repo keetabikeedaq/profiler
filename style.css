@@ -3,8 +3,8 @@
     background-image: url('https://bit.ly/3JgMOSw');
     /* background-color: antiquewhite; */
     /* opacity: 0.5; */
-    height: 300px;
-    width: 250px;
+    height: auto;
+    width: 100%;
     opacity: 1;
     /* background-size: cover; */
     position: relative;
@@ -20,10 +20,10 @@
     margin-top: 150px;
     border-radius: 50px;
     /* margin-bottom: 100px; */
-    width: 250px;
+    width: 100%;
     margin-right: 30px;
-    opacity: 0.8;
-    height: 150px;
+   
+    height: auto;
     /* background-position: center; */
     
   }
@@ -33,8 +33,8 @@
   }
   div{
     border:1px solid coral;
-    height:300px;
-    width:250px;
+    height:auto;
+    width:100%;
     border-radius: 10px;
   
   }
